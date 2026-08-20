@@ -251,6 +251,6 @@ luego personas dentro de ese equipo, luego tareas para el equipo, y finalmente a
 
 ---
 
-## 👤 Autores
+## 👤 Autor
 
 Proyecto académico — Camilo García.
