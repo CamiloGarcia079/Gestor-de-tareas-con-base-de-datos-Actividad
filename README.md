@@ -253,4 +253,4 @@ luego personas dentro de ese equipo, luego tareas para el equipo, y finalmente a
 
 ## 👤 Autores
 
-Proyecto académico — Filip Sanabria y Camilo García.
+Proyecto académico — Camilo García.
