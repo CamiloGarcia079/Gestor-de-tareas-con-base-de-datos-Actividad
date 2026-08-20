@@ -2,7 +2,7 @@
 
 Sistema de gestión de tareas estilo Scrum con equipos, personas y persistencia en **MySQL**.
 
-**Autores:** Filip Sanabria · Camilo García  
+**Autor:** Camilo García  
 **Campus:** CampusLands  
 
 ---
