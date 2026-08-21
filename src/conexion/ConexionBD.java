@@ -17,10 +17,10 @@ public class ConexionBD {
 
     // ==== Datos de conexion: AJUSTAR SEGUN EL EQUIPO DONDE SE EJECUTE ====
     private static final String HOST = "localhost";
-    private static final String PUERTO = "3306";           // 3307 si usas el docker-compose de la guia
+    private static final String PUERTO = "3307";           // contenedor docker-compose del campus
     private static final String BASE_DATOS = "gestor_tareas";
-    private static final String USUARIO = "root";
-    private static final String CLAVE = "root";
+    private static final String USUARIO = "campus";
+    private static final String CLAVE = "campus123";
 
     private static final String URL =
             "jdbc:mysql://" + HOST + ":" + PUERTO + "/" + BASE_DATOS
